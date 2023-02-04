@@ -4,9 +4,9 @@
 #include<string>
 #include<algorithm>
 
-//Final project by Diana Efimova: grade counter for this course.
-//The program asks how many students there are in class and conserning the answer gives same amount of forms with studentd' information.
-//In the end it inprints filled forms with calculating of teh final grade and gives a user a choice how to sort the lists.
+//The program asks how many students there are in class and concerning the answer gives same amount of forms with students' information.
+//In the end it prints filled forms with calculating of teh final grade and gives a user a choice how to sort the lists.
+
 using namespace std;
 using std::cout; using std::endl;
 using std::string; using std::vector;
